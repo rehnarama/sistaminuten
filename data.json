@@ -1,0 +1,256 @@
+{
+    "artists": [
+        {
+            "name": "Magnus Uggla",
+            "img": "https://www.svenskdam.se/wp-content/uploads/2009/05/magnus.jpg"
+        },
+        {
+            "name": "Thåström",
+            "img": "http://media.24files.se/24kristianstad/uploads/sites/11/2017/03/ae51a6878abbf025bd3758e3760395ca-e1488554552909-1024x517.jpg"
+        },
+        {
+            "name": "Elvis Presley",
+            "img": "https://media1.popsugar-assets.com/files/thumbor/8jz2qyMZDuMIrPQpg3ykc2iXsJo/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2017/08/10/748/n/1922398/tmp_KmXOpO_7dbb0d56aa4849ac_main.jpg"
+        },
+        {
+            "name": "Lill Lindfors",
+            "img": "http://www.finlandsinstitutet.se/sv/files/2012/12/lilllindfors_720x331_slider.jpg"
+        },
+        {
+            "name": "The Ark",
+            "img": "https://gfx.aftonbladet-cdn.se/image-c/17824462/1200/normal/5db0039236a47/12-theark-363"
+        },
+        {
+            "name": "Abba",
+            "img": "https://ichef.bbci.co.uk/news/660/cpsprodpb/3F29/production/_92096161_abbaolalagerpremiumrockshot.jpg"
+        },
+        {
+            "name": "Laleh",
+            "img": "http://veckorevyn.com/wp-content/uploads/2016/09/laleh-intervju.jpg"
+        },
+        {
+            "name": "Dschinghis Khan",
+            "img": "https://media4.allnumis.com/246/dsgings-khan_246_775763632c13d644L.jpg"
+        },
+        {
+            "name": "Little Jinder",
+            "img": "http://metromode.se/files/2016/01/littlejinder.jpg"
+        },
+        {
+            "name": "Magnus Carlsson",
+            "img": "http://grandsamarkand.se/wp-content/uploads/2017/04/magnus-carlsson_812x501.jpg"
+        },
+        {
+            "name": "Kent",
+            "img": "http://kent.nu/wp-content/uploads/2014/03/Kent2014-f.Emil-Fagander_02.jpg"
+        },
+        {
+            "name": "Bob Marley",
+            "img": "https://fthmb.tqn.com/QbdvMyE2dL-EUNsRw9c80v4m2D4=/1500x1000/filters:fill(auto,1)/Bob-Marley-5899213a3df78caebc04f6b9.jpg"
+        },
+        {
+            "name": "Beyonce",
+            "img": "http://www.trbimg.com/img-599b1b69/turbine/la-et-jc-beyonce-book-20170821"
+        },
+        {
+            "name": "Veronica Maggio",
+            "img": "http://kulturbolaget.se/wp-content/uploads/2016/08/VeronicaMaggio2016_WEBB-1200x630.jpg"
+        },
+        {
+            "name": "Tommy Körberg",
+            "img": "http://static-cdn.sr.se/sida/images/2071/3239090_2048_1152.jpg?preset=article"
+        },
+        {
+            "name": "Justin Bieber",
+            "img": "http://ksassets.timeincuk.net/wp/uploads/sites/55/2015/11/2-15JustinBieber_Hero_Lead_111115.hero_-1.jpg"
+        },
+        {
+            "name": "Rihanna",
+            "img": "https://media.glamour.com/photos/5936a528ee96996f3f7437b2/master/pass/rihanna.jpg"
+        },
+        {
+            "name": "Fleetwood Mac",
+            "img": "http://img.wennermedia.com/social/fleetwood-mac-best-tracks-song-listen-list-rolling-stone-d61f32dd-7022-40e7-a9c9-5a77fc4eb39f.jpg"
+        },
+        {
+            "name": "Ted Gärdestad",
+            "img": "https://cdn2.cdnme.se/1391774/8-3/0fb81a18d6b6459ca4888cef9efb2a39_56ca2dfaddf2b3747266cd6b.png"
+        },
+        {
+            "name": "Zara Larsson",
+            "img": "https://i.ytimg.com/vi/CIFVOTbCTfA/maxresdefault.jpg"
+        },
+        {
+            "name": "The Beatles",
+            "img": "http://www.billboard.com/files/styles/article_main_image/public/media/the-beatles-circa-1966-650-430.jpg"
+        },
+        {
+            "name": "Robyn",
+            "img": "https://www.out.com/sites/out.com/files/2017/03/20/ap_641478737191.jpg"
+        },
+        {
+            "name": "Olle Adolphson",
+            "img": "https://i.ytimg.com/vi/nVdWr9EJisg/hqdefault.jpg"
+        },
+        {
+            "name": "Monica Zetterlund",
+            "img": "http://www.digjazz.se/MonicaZetterlund630.jpg"
+        },
+        {
+            "name": "Loreen",
+            "img": "https://w.cdn-expressen.se/images/35/8b/358b34a6b7494d7bb8aa8fdbd1d22aca/16x9/680.jpg"
+        },
+        {
+            "name": "Timbuktu",
+            "img": "http://www.skap.se/sites/default/files/images/nyheter/timbuk.jpg"
+        },
+        {
+            "name": "Adele",
+            "img": "http://www.billboard.com/files/styles/article_main_image/public/media/Adele-2015-Alasdair-McLellan-billboard-650.jpg"
+        },
+        {
+            "name": "First Aid Kit",
+            "img": "http://i.telegraph.co.uk/multimedia/archive/02935/firstaidkitweb_2935932b.jpg"
+        },
+        {
+            "name": "Lars Winnerbäck",
+            "img": "https://www.gso.se/wp-content/uploads/2016/08/lw-2000x900-web-002_1920x860_acf_cropped.jpg"
+        },
+        {
+            "name": "Måns Zelmerlöw",
+            "img": "https://images.genius.com/71c417d59ecf75025fd01a448fb0af50.650x366x1.jpg"
+        },
+        {
+            "name": "Danny Saucedo",
+            "img": "https://x.cdn-expressen.se/images/20/8e/208e2454b5cc49f7953057e11b2c5307/16x9/680.jpg"
+        },
+        {
+            "name": "Håkan Hellström",
+            "img": "https://cdn01.nyheter24.se/2c68140e0202021d01/2015/09/28/1136366/håkan-hellström-e1302527495938-650x350.jpg"
+        },
+        {
+            "name": "Coldplay",
+            "img": "https://www.straight.com/files/v3/images/17/09/coldplay_1.jpg"
+        },
+        {
+            "name": "Rolling Stones",
+            "img": "http://marginalrevolution.com/wp-content/uploads/2016/12/stones.jpg"
+        },
+        {
+            "name": "The Cure",
+            "img": "http://img.wennermedia.com/social/rs-245886-RS-The-Cure.jpg"
+        },
+        {
+            "name": "Depeche Mode",
+            "img": "http://ksassets.timeincuk.net/wp/uploads/sites/55/2017/03/DepecheModeGettyImages-614280722.jpg"
+        },
+        {
+            "name": "Kate Bush",
+            "img": "http://inspirer.life/home/wp-content/uploads/2017/01/4fc73410ccbb7942482f2f246265cee5.jpg"
+        },
+        {
+            "name": "Alice Babs",
+            "img": "https://www.fokus.se/wp-content/uploads/2014/02/Alice-Babs.jpg"
+        },
+        {
+            "name": "Tommy Nilsson",
+            "img": "https://i.ytimg.com/vi/8ZzI9t-VgfY/maxresdefault.jpg"
+        },
+        {
+            "name": "Patrik Isaksson",
+            "img": "http://static-cdn.sr.se/sida/images/2151/1708240_1200_675.jpg"
+        },
+        {
+            "name": "Arja Saijonmaa",
+            "img": "http://www.unhcr.org/thumb1/52d7eaf16.jpg"
+        },
+        {
+            "name": "Michael Jackson",
+            "img": "https://ichef.bbci.co.uk/images/ic/960x540/p01bqlx8.jpg"
+        },
+        {
+            "name": "Jimi Hendrix",
+            "img": "http://www.thatericalper.com/wp-content/uploads/2017/03/140129-jimi-hendrix.jpg"
+        },
+        {
+            "name": "Johnny Cash",
+            "img": "http://images.tritondigitalcms.com/6616/sites/1446/2017/08/17103623/Johnny-Cash-courtesy-Sony-Music-Entertainment.jpg"
+        },
+        {
+            "name": "Queen",
+            "img": "http://www.cheatsheet.com/wp-content/uploads/2016/06/Queen.jpg"
+        },
+        {
+            "name": "Eurythmics",
+            "img": "https://consequenceofsound.files.wordpress.com/2014/01/the-eurythmics-600.png"
+        },
+        {
+            "name": "Per Gessle",
+            "img": "https://gfx.aftonbladet-cdn.se/image-c/23956064/1900/normal/885c2d3f131ed/pergessle.jpg"
+        },
+        {
+            "name": "Britney Spears",
+            "img": "http://img.wennermedia.com/social/rs-britney-spears-f31380b9-1475-49a6-a680-fa919c554a4f.jpg"
+        },
+        {
+            "name": "A-ha",
+            "img": "https://i.ytimg.com/vi/atZEqKaAgoc/maxresdefault.jpg"
+        },
+        {
+            "name": "Wham!",
+            "img": "http://i3.mirror.co.uk/incoming/article9518513.ece/ALTERNATES/s1200/PAY-PROD-WHAM-ARCHIVE-PHOTO.jpg"
+        },
+        {
+            "name": "Cyndi Lauper",
+            "img": "http://www.liketotally80s.com/wp-content/uploads/2014/07/cyndi-lauper-costume-3.jpg"
+        },
+        {
+            "name": "Whitney Houston",
+            "img": "https://peopledotcom.files.wordpress.com/2016/08/whitney-houston-t-660.jpg"
+        },
+        {
+            "name": "Spice Girls",
+            "img": "http://www.billboard.com/files/media/spice-girls-1997-nyc-2016-billboard-1548.jpg"
+        },
+        {
+            "name": "Madonna",
+            "img": "https://images-na.ssl-images-amazon.com/images/I/C1nae+KOI+S._SL1000_.png"
+        },
+        {
+            "name": "Nenna",
+            "img": "http://1.bp.blogspot.com/-0rkJ_IWsvtY/U96serBknCI/AAAAAAAAKeo/QPlxRgmPznc/s1600/Nena.jpg"
+        },
+        {
+            "name": "Elton John",
+            "img": "http://akns-images.eonline.com/eol_images/Entire_Site/2017422/rs_1024x759-170522092732-1024.elton-john.cm.52217.jpg"
+        },
+        {
+            "name": "Roger Pontare",
+            "img": "http://blogg.hallandsposten.se/vagentilleurovision/wp-content/uploads/sites/37/2017/02/sdlsp09f200-nh-1024x676.jpg"
+        },
+        {
+            "name": "Niklas Strömstedt",
+            "img": "https://stoppapressarna.se/sites/default/files/styles/flexslider_full/public/artikelalbum/stromstedt_stor5.jpg"
+        },
+        {
+            "name": "Basshunter",
+            "img": "https://i.ytimg.com/vi/12vh55_1ul8/maxresdefault.jpg"
+        },
+        {
+            "name": "Gyllene Tider",
+            "img": "http://www.gyllenetider.com/wp-content/uploads/2017/03/gt_header6-1.jpg"
+        },
+        {
+            "name": "Lasse Holm",
+            "img": "http://media.popmuzik.se/2010/04/Lasse-Holm-739.jpg"
+        },
+        {
+            "name": "Ulla Billquist",
+            "img": "http://static-cdn.sr.se/sida/images/2151/1373075_1200_675.jpg"
+        },
+        {
+            "name": "Ulf Lundell",
+            "img": "https://gfx.aftonbladet-cdn.se/image-c/12473759/1100/normal/3ee31526005d8/12s32-lundell-423__mngl_20110112ab5x032,nje_1.indd_4605.jpg"
+        }
+    ]
+}
